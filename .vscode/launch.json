@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "KeyboardCombi",
+      "request": "launch",
+      "mainClass": "KeyboardCombi",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Subsequence2",
+      "request": "launch",
+      "mainClass": "Subsequence2",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Subsequence",
+      "request": "launch",
+      "mainClass": "Subsequence",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Dublicate",
+      "request": "launch",
+      "mainClass": "Dublicate",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Practice Self/SummerPractice/JAVA",
+      "program": "d:/Practice Self/SummerPractice/JAVA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
