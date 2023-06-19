@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "staticClass",
+      "request": "launch",
+      "mainClass": "OOps.staticClass",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Interface",
+      "request": "launch",
+      "mainClass": "OOps.Interface",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Interface",
+      "request": "launch",
+      "mainClass": "Bank.Interface",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Abstract",
+      "request": "launch",
+      "mainClass": "Bank.Abstract",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "bank",
+      "request": "launch",
+      "mainClass": "Bank.bank",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "InheritanceSingle",
+      "request": "launch",
+      "mainClass": "OOps.InheritanceSingle",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism",
+      "request": "launch",
+      "mainClass": "OOps.Polymorphism",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Oops",
+      "request": "launch",
+      "mainClass": "OOps.Oops",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
       "name": "KeyboardCombi",
       "request": "launch",
       "mainClass": "KeyboardCombi",
