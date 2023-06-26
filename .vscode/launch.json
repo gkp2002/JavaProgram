@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
       "name": "StackReverse",
       "request": "launch",
       "mainClass": "StackReverse",

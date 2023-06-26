@@ -19,7 +19,7 @@ public class Recursion {
     }
     public static void main(String[] args) {
         int n=1;
-       // print(n);
+        print(n);
        sumNatur(1,5,0);
     }
     
