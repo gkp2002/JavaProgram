@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StackReverse",
+      "request": "launch",
+      "mainClass": "StackReverse",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "stackImplementation",
+      "request": "launch",
+      "mainClass": "stackImplementation",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Parenthesi",
+      "request": "launch",
+      "mainClass": "Parenthesi",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "StackArray",
+      "request": "launch",
+      "mainClass": "StackArray",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "StackClass",
+      "request": "launch",
+      "mainClass": "StackClass",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "LinkedReverse",
+      "request": "launch",
+      "mainClass": "Collection.LinkedReverse",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Berry",
+      "request": "launch",
+      "mainClass": "Collection.Berry",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "LL",
+      "request": "launch",
+      "mainClass": "Collection.LL",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Arraylist",
+      "request": "launch",
+      "mainClass": "Collection.Arraylist",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList",
+      "request": "launch",
+      "mainClass": "Collection.ArrayList",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
       "name": "staticClass",
       "request": "launch",
       "mainClass": "OOps.staticClass",
