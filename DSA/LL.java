@@ -82,9 +82,7 @@ public class LL {
         if(currNode==null|| currNode.next==null) return;
         Node next = currNode.next.next;
         currNode.next=next;
-        
-
-        }
+     }
         
 
     

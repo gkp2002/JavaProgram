@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LL",
+      "request": "launch",
+      "mainClass": "LL",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Linked",
+      "request": "launch",
+      "mainClass": "Linked",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "BinaryTree",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Binary",
+      "request": "launch",
+      "mainClass": "Binary",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Merg",
+      "request": "launch",
+      "mainClass": "Merg",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "StackQueue",
+      "request": "launch",
+      "mainClass": "StackQueue",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "QueueLinkedlist",
+      "request": "launch",
+      "mainClass": "QueueLinkedlist",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "circularQueue",
+      "request": "launch",
+      "mainClass": "circularQueue",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
+      "name": "Queue",
+      "request": "launch",
+      "mainClass": "Queue",
+      "projectName": "JAVA_7615ef90"
+    },
+    {
+      "type": "java",
       "name": "Recursion",
       "request": "launch",
       "mainClass": "Recursion",
